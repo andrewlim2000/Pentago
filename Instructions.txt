@@ -1,0 +1,5 @@
+1. Run Pentago.py
+2. Follow console instructions
+3. Player's move should be in the following format: [game block]/[position] [game block][direction]
+   Example: 4/1 4L
+4. Program assumes input is valid, so token and moves have to be entered exactly as specified.
